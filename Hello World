@@ -1,0 +1,10 @@
+Step 1 buka kode editor kalian.
+Step 2 buat file: Hello_World.js
+Step 3 Ketik Kode Berikut;
+
+console.log("Hello World")
+
+Step 4 run.
+
+output:
+Hello World
